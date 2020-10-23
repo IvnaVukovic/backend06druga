@@ -3,6 +3,5 @@ content-type: application/json
 
 {
   "sadrzaj": "Imam sadrzaj",
-  "vazno": true,
-  "glupo": "ne"
+  "vazno": true
 }
